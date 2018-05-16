@@ -6,6 +6,7 @@ Thumbs.db
 # for Xcode
 .*.swp
 .clang_complete
-*.xcodeproj/project.xcworkspace/
-*.xcodeproj/xcuserdata/
- 
+objc4/objc4-723/*.xcodeproj/project.xcworkspace/
+objc4/objc4-723/*.xcodeproj/xcuserdata/
+objc4/objc4-723/Build/
+objc4/objc4-723/Index/
